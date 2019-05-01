@@ -1,0 +1,8 @@
+{
+    "name": "yenilmezler-4-turkce-dublaj-full/izle-720p",
+    "description": "Yenilmezler 4 Son Oyun - Avengers 4 End Game 2019 1080p Film izle, Yenilmezler 4: Oyunun Sonu izle - Avengers: Endgame 2019 izle | Full, Yenilmezler 4: Oyun Bitti izle (2019) 1080p Full HD Tek Part Hızlı izle, AVENGERS 4 ENDGAME Türkçe Dublaj",
+    "require": {
+        "php": "^7.2",
+        "another-vendor/package": "1.*"
+    }
+}
